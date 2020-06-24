@@ -15,9 +15,10 @@
      カンファレンス(WWDC)の内容は技術者だけでなくコンピュータ関連の多くの業界関係者から注目を集めている。
      
      
-     
+## [所感]     
     
-     
+## [引用サイト]
+　　[WWDC 2020についての動画] (https://www.youtube.com/watch?v=GEZhD3J89ZE&feature=youtu.be)
      
 
    
