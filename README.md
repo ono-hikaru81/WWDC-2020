@@ -18,7 +18,7 @@
 ## [所感]     
     
 ## [引用サイト]
-　　[WWDC 2020についての動画] (https://www.youtube.com/watch?v=GEZhD3J89ZE&feature=youtu.be)
+　　[WWDC 2020についての動画](https://www.youtube.com/watch?v=GEZhD3J89ZE&feature=youtu.be)
      
 
    
