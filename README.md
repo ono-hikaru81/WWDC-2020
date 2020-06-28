@@ -24,7 +24,7 @@
 ## [所感]     
     
 ## [引用サイト]
-　  [WWDC 2020の動画](https://www.youtube.com/watch?v=GEZhD3J89ZE&feature=youtu.be)
-   
-    [内容箇条まとめ](https://www.gizmodo.jp/2020/06/wwdc20-realtime.html)
+[WWDC 2020の動画](https://www.youtube.com/watch?v=GEZhD3J89ZE&feature=youtu.be)
+
+[内容箇条まとめ](https://www.gizmodo.jp/2020/06/wwdc20-realtime.html)
  
