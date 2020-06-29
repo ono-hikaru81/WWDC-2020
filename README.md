@@ -3,7 +3,7 @@
 ### 【調べた内容】
 #### ・[WWDCって何？](#WWDCとは)
 #### **今回のUpdate内容**
-#### ・[ios 14](ios14)
+#### ・[ios 14](#ios14)
 #### ・iPad 14
 #### ・watchOS 7
 #### ・macOS Big Sur
