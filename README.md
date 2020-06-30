@@ -7,7 +7,7 @@
 #### ・[iPadOS 14](#iPadOS_14)
 #### ・[watchOS 7](#watchOS_7)
 #### ・[macOS Big Sur](#macOS_Big_Sur)
-#### ・[Apple Silicon(ARM Mac)](#Apple_Silicon(ARM Mac))
+#### ・[Apple Silicon(ARM Mac)](#Apple_Silicon)
   
 ## 【WWDCとは】
      WWDC (Worldwide Developers Conference)とはApple会社が技術者・開発者を主な対象とし、
@@ -116,7 +116,7 @@ Siriが探してくる情報も三年前に比べて20倍にも増えたそう�
 ## macOS_Big_Sur
 
 --------------------------------------------------
-## Apple_Silicon(ARM Mac)
+## Apple_Silicon
 
 --------------------------------------------------
 
