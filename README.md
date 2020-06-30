@@ -4,10 +4,10 @@
 #### ・[WWDCって何？](#WWDCとは)
 #### **今回のUpdate内容**
 #### ・[ios 14](#ios_14)
-#### ・iPad 14
-#### ・watchOS 7
-#### ・macOS Big Sur
-#### ・Apple Silicon(ARM Mac)
+#### ・[iPadOS 14](#iPadOS_14)
+#### ・[watchOS 7](#watchOS_7)
+#### ・[macOS Big Sur](#macOS_Big_Sur)
+#### ・[Apple Silicon(ARM Mac)](#Apple_Silicon(ARM Mac))
   
 ## 【WWDCとは】
      WWDC (Worldwide Developers Conference)とはApple会社が技術者・開発者を主な対象とし、
@@ -25,7 +25,7 @@
 #### ・[App Library](#App_Library)
 #### ・[ウィジェット](#ウィジェットの機能刷新)
 #### ・[PictureInPicture](#ピクチャインピクチャ)
-#### ・[Siri](#Siri)
+#### ・[siri](#Siri)
 
 ### App_Library 
 増えすぎてしまったアプリケーションを整理し、見やすくするために、**App Library**が追加されます。
@@ -107,10 +107,19 @@ Siriが探してくる情報も三年前に比べて20倍にも増えたそう�
 翻訳アプリもパワーアップし、11か国語(日本語含む)に対応し素早く自然な翻訳になります。
 
 --------------------------------------------------
-
-
+## iPadOS_14
 
 --------------------------------------------------
+## watchOS_7
+
+--------------------------------------------------
+## macOS_Big_Sur
+
+--------------------------------------------------
+## Apple_Silicon(ARM Mac)
+
+--------------------------------------------------
+
      
 ## 【所感】   
     
