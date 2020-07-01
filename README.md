@@ -4,7 +4,7 @@
 #### ・[WWDCって何？](#WWDCとは)
 #### ・[ios 14](#ios_14)
 #### ・[macOS Big Sur](#macOS_Big_Sur)
-#### ・[ARM mac](#AppleSilicon)
+#### ・[ARM mac](#Apple_Silicon)
 #### ・[まとめ](#所感)
  
 ## 【WWDCとは】
@@ -169,7 +169,7 @@ Finder、Mail、Photosなど、広くサイドバーを追加。
 ![Safari](https://assets.media-platform.com/gizmodo/dist/images/2020/06/23/200623-0590-w1280.jpg)
 
 --------------------------------------------------
-## Apple Silicon
+## Apple_Silicon
 
 --------------------------------------------------
      
