@@ -226,6 +226,7 @@ macに関しても使いやすさが全体的に向上しているんだな、�
 Apple Siliconに関しては、モノづくりをする上でのスムーズ性がより格段に上がるんだろうという印象を受けました。
 
 
+
 ## 【引用サイト】
 [WWDC 2020の動画](https://www.youtube.com/watch?v=GEZhD3J89ZE&feature=youtu.be)
 
