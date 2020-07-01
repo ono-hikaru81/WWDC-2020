@@ -8,7 +8,7 @@
 
 ・[macOS Big Sur](#macOS_Big_Sur)
 
-・[ARM mac](#Apple_Silicon)
+・[Apple Silicon](#Apple_Silicon)
 
 ・[まとめ](#所感)
  
