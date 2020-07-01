@@ -1,11 +1,16 @@
 # WWDC-2020　Report
 
 ### 【調べた内容】
-#### ・[WWDCって何？](#WWDCとは)
-#### ・[ios 14](#ios_14)
-#### ・[macOS Big Sur](#macOS_Big_Sur)
-#### ・[ARM mac](#Apple_Silicon)
-#### ・[まとめ](#所感)
+
+・[WWDCって何？](#WWDCとは)
+
+・[ios 14](#ios_14)
+
+・[macOS Big Sur](#macOS_Big_Sur)
+
+・[ARM mac](#Apple_Silicon)
+
+・[まとめ](#所感)
  
 ## 【WWDCとは】
      WWDC (Worldwide Developers Conference)とはApple会社が技術者・開発者を主な対象とし、
