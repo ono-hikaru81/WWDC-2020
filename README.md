@@ -189,6 +189,8 @@ Arm系命令を採用するApple Siliconなので、Intel x86系命令は実行�
 
 グラフィック処理がすごく早くなるみたいです。
 
+今後発売されるmac miniで開発者は色々試せるようです。
+
 ![Apple Silicon](https://assets.media-platform.com/gizmodo/dist/images/2020/06/23/200623-0713-w1280.jpg)
 
 #### Armアーキテクチャ
@@ -221,15 +223,10 @@ macに関しても使いやすさが全体的に向上しているんだな、�
 
 これらの主なアップデートもウィジェット関連(iosと似たような内容)でした。
 
-Apple Siliconに関しては、現段階での情報が少なかったです。
-(理解しきれてないか、見つけきれてないだけかも...)
+Apple Siliconに関しては、モノづくりをする上でのスムーズ性がより格段に上がるんだろうという印象を受けました。
 
-今後発売されるmac miniで開発者は色々試せるみたいです。
-
-また、追加で、情報を見つけたら別でまとめておこうと思います。
 
 ## 【引用サイト】
 [WWDC 2020の動画](https://www.youtube.com/watch?v=GEZhD3J89ZE&feature=youtu.be)
 
 [内容箇条まとめ](https://www.gizmodo.jp/2020/06/wwdc20-realtime.html)
- 
