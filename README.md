@@ -223,9 +223,7 @@ macに関しても使いやすさが全体的に向上しているんだな、�
 
 これらの主なアップデートもウィジェット関連(iosと似たような内容)でした。
 
-Apple Siliconに関しては、モノづくりをする上でのスムーズ性がより格段に上がるんだろうという印象を受けました。
-
-
+Apple Siliconに関しては、これの登場によってApple製品の親和性が高くなるがいいと思いました。
 
 ## 【引用サイト】
 [WWDC 2020の動画](https://www.youtube.com/watch?v=GEZhD3J89ZE&feature=youtu.be)
